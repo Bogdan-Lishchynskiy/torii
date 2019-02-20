@@ -16,8 +16,3 @@ apidoc
 #Workbanch files
 *.bak
 
-# JS files
-**/*.js
-**/*.map
-
-
